@@ -1,3 +1,5 @@
+package MyQueueTest.main;
+
 public class MyQueue {
     private final int SIZE;
     private final int[] queue;

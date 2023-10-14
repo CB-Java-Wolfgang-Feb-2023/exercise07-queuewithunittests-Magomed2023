@@ -1,3 +1,5 @@
+package MyQueueTest.main;
+
 public class Main {
     public static void main(String[] args) {
         // Erstelle ein Objekt der MyQueue-Klasse
